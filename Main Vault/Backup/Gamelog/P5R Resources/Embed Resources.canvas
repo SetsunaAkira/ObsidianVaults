@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"042abb453b9f881a","x":100,"y":-500,"width":2840,"height":2740,"type":"group","label":"Confidants"},
+		{"id":"4fc41f6253ac2369","type":"group","x":780,"y":1540,"width":1220,"height":440,"label":"Untitled group"},
+		{"id":"b1dfc64ce141bec7","type":"link","url":"https://www.polygon.com/persona-5-royal-guide-walkthrough/2020/3/31/21192788/questions-answers-quizzes-exams-midterm-final-classroom","x":-720,"y":-480,"width":789,"height":2720,"color":"1"},
+		{"id":"96fd11984e5a534c","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-chariot-ryuji-sakamoto/370379/","x":120,"y":-480,"width":1009,"height":520,"color":"5"},
+		{"id":"9f9a03d167c2db2e","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-councillor-takuto-maruki/370462/","x":1129,"y":-480,"width":871,"height":520},
+		{"id":"e14adf50f77f25b9","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-devil-ichiko-ohya/370393/","x":2000,"y":-480,"width":920,"height":520},
+		{"id":"c137e3043097644e","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-sun-toranosuke-yoshida/370452/","x":120,"y":40,"width":1009,"height":360},
+		{"id":"63a689fcf5c41948","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-tower-shinya-oda/370459/","x":2000,"y":40,"width":920,"height":360},
+		{"id":"9385d6113283a34c","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-temperance-sadayo-kawakami/370456/","x":1129,"y":40,"width":871,"height":360},
+		{"id":"6a327c0e0ddd6524","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-emperor-yusuke-kitagawa/370403/","x":2000,"y":1320,"width":920,"height":400},
+		{"id":"e31e4b9782732346","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-moon-yuuki-mishima/370439/","x":1129,"y":1320,"width":871,"height":400},
+		{"id":"e82d29355e070b20","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-justice-goro-akechi/370472/","x":2000,"y":880,"width":920,"height":440},
+		{"id":"776d86879c48547f","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-star-hifumi-togo/370447/","x":1129,"y":880,"width":871,"height":440},
+		{"id":"869b4ae2449bb9e6","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-priestess-makoto-niijima/370442/","x":120,"y":880,"width":1009,"height":440},
+		{"id":"f653717547f879f6","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-hanged-munehisa-iwai/370427/","x":2000,"y":440,"width":920,"height":440},
+		{"id":"3d02fc7223abb357","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-hermit-futaba-sakura/370430/","x":1129,"y":400,"width":871,"height":480},
+		{"id":"bf05099e8f6e518b","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-hierophant-sojiro-sakura/370433/","x":120,"y":400,"width":1009,"height":480},
+		{"id":"190e94a15aebbff1","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-lovers-ann-takamaki/370436/","x":120,"y":1320,"width":1009,"height":400},
+		{"id":"5b5e824267ff3d01","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-empress-haru-okumura/370417/","x":120,"y":1720,"width":1009,"height":400},
+		{"id":"922fcd656679e947","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-faith-kasumi-yoshizawa/370469/","x":1129,"y":1720,"width":871,"height":400},
+		{"id":"2e88a318ce2f64fa","type":"link","url":"https://hardcoregamer.com/features/persona-5-royal-confidant-guide-fortune-chihaya-mifune/370421/","x":2000,"y":1720,"width":920,"height":400},
+		{"id":"6bfbf5b4954c691c","x":2938,"y":-500,"width":1282,"height":2740,"type":"link","url":"https://chinhodado.github.io/persona5_calculator/#/list"}
+	],
+	"edges":[]
+}

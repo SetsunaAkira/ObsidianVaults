@@ -1,0 +1,40 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "_xHHBNkid1wfi2Nyi9c9O",
+      "name": "Red",
+      "value": "#f50000"
+    },
+    {
+      "id": "kbus2W7cATxV_CBC2NuQ2",
+      "name": "Hot Pink",
+      "value": "#db0037"
+    },
+    {
+      "id": "08NkL1jHWtN-rXimEhURk",
+      "name": "Green",
+      "value": "#00db75"
+    },
+    {
+      "id": "I47b-am7RwQiPbPQA8SLN",
+      "name": "Blue",
+      "value": "#005bd1"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Gamelog",
+      "color": "I47b-am7RwQiPbPQA8SLN"
+    },
+    {
+      "path": "FGC STUFF",
+      "color": "_xHHBNkid1wfi2Nyi9c9O"
+    },
+    {
+      "path": "Arknights",
+      "color": "kbus2W7cATxV_CBC2NuQ2"
+    }
+  ]
+}

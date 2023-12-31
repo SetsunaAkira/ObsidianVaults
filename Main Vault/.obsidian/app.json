@@ -1,0 +1,11 @@
+{
+  "trashOption": "local",
+  "attachmentFolderPath": "Media",
+  "newFileLocation": "current",
+  "promptDelete": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
+}
